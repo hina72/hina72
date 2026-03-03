@@ -1,7 +1,7 @@
 ## Hi there 👋
 **My name is Huynh Khanh Hung**\
-Education: Student of University of Information Technology\
-I'm currently learning Cybersecurity, along with some Japanese to watch anime 😄
+Education: Student of University of Information Technology, VNUHCM\
+I'm currently learning Cybersecurity, and some Japanese to watch anime 😄
 
 <!--
 **hina72/hina72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
