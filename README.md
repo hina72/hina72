@@ -1,6 +1,5 @@
-**Huynh Khanh Hung**\
-Education: Student of University of Information Technology, VNUHCM\
-Major: Cybersecurity 
+**HINA72**\
+
 <!--
 **hina72/hina72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
