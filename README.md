@@ -1,4 +1,4 @@
-**HINA72**\
+**HINA72**
 
 <!--
 **hina72/hina72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
